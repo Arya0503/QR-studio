@@ -3,7 +3,8 @@
 # ✨ QR Studio ✨
 ### A Premium, Browser-Based QR Code Generator & Designer
 
-**🎥 Live Demo Video:** [Watch the Application in Action here](https://drive.google.com/file/d/1Cdzik1xke2fFS72GLnR1jHlFst7W7xht/view?usp=sharing)
+**🎥 Live Demo Video:** [Watch the Application in Action here](https://drive.google.com/file/d/1Cdzik1xke2fFS72GLnR1jHlFst7W7xht/view?usp=sharing)  
+**🚀 Live Application:** [https://qr-studio-delta-two.vercel.app](https://qr-studio-delta-two.vercel.app)
 
 <br/>
 
