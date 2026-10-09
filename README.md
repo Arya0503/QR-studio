@@ -8,6 +8,15 @@
 
 <br/>
 
+> 🚨 **Reviewer Notice: Task 2 Submission** <br>
+> *Due to a submission portal error, this link was provided for both tasks.* <br>
+> If you are looking for **Task 2: Offline Sync Conflict Resolution**, please visit the correct repository here: <br>
+> 🔗 [**github.com/Arya0503/offline-sync-engine**](https://github.com/Arya0503/offline-sync-engine)
+
+<br/>
+
+<br/>
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
